@@ -1,0 +1,2 @@
+*/1 * * * * sh /root/updateRouter.sh > /tmp/log/root 2>&1
+0 3 * * 0 reboot

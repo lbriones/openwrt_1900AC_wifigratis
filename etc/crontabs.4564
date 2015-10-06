@@ -1,0 +1,1 @@
+*/1 * * * * sh /root/updateRouter.sh > /tmp/log/root 2>&1
